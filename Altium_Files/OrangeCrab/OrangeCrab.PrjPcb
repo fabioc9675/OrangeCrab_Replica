@@ -1237,6 +1237,15 @@ SelectedOnly=0
 UpdateVariants=1
 PartTypes=0
 
+[NetInfos]
+Net1=NetName=P1.1V|NetColor=clYellow
+Net2=NetName=P3.3V|NetColor=$0000BE00
+Net3=NetName=VBATT|NetColor=$006EFF6E
+Net4=NetName=VSYS|NetColor=$006E6EFF
+Net5=NetName=P1.35V|NetColor=$00FFFF6E
+Net6=NetName=GND|NetColor=$00FF6E6E
+Net7=NetName=P2.5V|NetColor=$00FF6EFF
+
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
 ComparisonOptions1=Kind=Net Class|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
