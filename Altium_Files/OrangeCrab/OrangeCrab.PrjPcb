@@ -1241,10 +1241,12 @@ PartTypes=0
 Net1=NetName=P1.1V|NetColor=clYellow
 Net2=NetName=P3.3V|NetColor=$0000BE00
 Net3=NetName=VBATT|NetColor=$006EFF6E
-Net4=NetName=VSYS|NetColor=$006E6EFF
-Net5=NetName=P1.35V|NetColor=$00FFFF6E
-Net6=NetName=GND|NetColor=$00FF6E6E
-Net7=NetName=P2.5V|NetColor=$00FF6EFF
+Net4=NetName=RAM_VDD|NetColor=$00DB208A
+Net5=NetName=RAM_VDDQ|NetColor=$00DB208A
+Net6=NetName=VSYS|NetColor=$006E6EFF
+Net7=NetName=P1.35V|NetColor=$00FFFF6E
+Net8=NetName=GND|NetColor=$00FF6E6E
+Net9=NetName=P2.5V|NetColor=$00FF6EFF
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
