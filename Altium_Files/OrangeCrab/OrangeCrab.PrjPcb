@@ -157,6 +157,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UCYFSAPF
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for OrangeCrab\Design Rule Check - PCB_Design.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
