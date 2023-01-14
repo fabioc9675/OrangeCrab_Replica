@@ -1515,13 +1515,17 @@ PartTypes=0
 [NetInfos]
 Net1=NetName=P1.1V|NetColor=clYellow
 Net2=NetName=P3.3V|NetColor=$0000BE00
-Net3=NetName=VBATT|NetColor=$006EFF6E
-Net4=NetName=GND|NetColor=$00FF6E6E
-Net5=NetName=P2.5V|NetColor=$00FF6EFF
-Net6=NetName=VSYS|NetColor=$006E6EFF
-Net7=NetName=P1.35V|NetColor=$00FFFF6E
-Net8=NetName=RAM_VDD|NetColor=$00DB208A
-Net9=NetName=RAM_VDDQ|NetColor=$00DB208A
+Net3=NetName=P1V1|NetColor=clYellow
+Net4=NetName=P3V3|NetColor=$006EFF6E
+Net5=NetName=VSYS|NetColor=$006E6EFF
+Net6=NetName=P1V35|NetColor=$00FFFF6E
+Net7=NetName=GND|NetColor=$00FF6E6E
+Net8=NetName=P1.35V|NetColor=$00FFFF6E
+Net9=NetName=VBATT|NetColor=$006EFF6E
+Net10=NetName=P2V5|NetColor=$00FF6EFF
+Net11=NetName=RAM_VDDQ|NetColor=$00DB208A
+Net12=NetName=P2.5V|NetColor=$00FF6EFF
+Net13=NetName=RAM_VDD|NetColor=$00DB208A
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=-1|Confirm=-1|UseName=-1|InclAllRules=0
