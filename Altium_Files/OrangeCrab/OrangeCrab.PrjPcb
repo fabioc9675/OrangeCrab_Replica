@@ -1548,10 +1548,10 @@ Net3=NetName=P2.5V|NetColor=$00FF6EFF
 Net4=NetName=P1V35|NetColor=$00FFFF6E
 Net5=NetName=VBATT|NetColor=$006EFF6E
 Net6=NetName=P3.3V|NetColor=$0000BE00
-Net7=NetName=P2V5|NetColor=$00FF6EFF
-Net8=NetName=P3V3|NetColor=$006EFF6E
-Net9=NetName=GND|NetColor=$00FF6E6E
-Net10=NetName=RAM_VDD|NetColor=$00DB208A
+Net7=NetName=RAM_VDD|NetColor=$00DB208A
+Net8=NetName=GND|NetColor=$00FF6E6E
+Net9=NetName=P2V5|NetColor=$00FF6EFF
+Net10=NetName=P3V3|NetColor=$006EFF6E
 Net11=NetName=P1.1V|NetColor=clYellow
 Net12=NetName=RAM_VDDQ|NetColor=$00DB208A
 Net13=NetName=P1V1|NetColor=clYellow
